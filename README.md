@@ -105,3 +105,13 @@ python -m ruff check app tests run_agent.py run_tool.py streamlit_app.py test_gr
 ## Project Status
 
 Core agent, sales analysis, API, Streamlit interface, approval workflow, logging, tests, and lint checks are implemented.
+
+## Application Screenshots
+
+### Streamlit Dashboard
+
+![Streamlit Dashboard](docs/images/streamlit-dashboard.png)
+
+### Streamlit Dashboard — Additional View
+
+![Streamlit Dashboard Additional View](docs/images/streamlit-dashboard2.png)
