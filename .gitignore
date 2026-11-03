@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated data
+data/processed/
+reports/generated/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

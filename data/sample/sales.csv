@@ -1,0 +1,13 @@
+date,product,region,units_sold,unit_price
+2026-01-05,Laptop,North,5,850
+2026-01-07,Phone,South,12,500
+2026-01-10,Tablet,East,8,300
+2026-01-12,Laptop,West,3,850
+2026-01-15,Phone,North,10,500
+2026-01-18,Tablet,South,6,300
+2026-01-20,Laptop,East,7,850
+2026-01-22,Phone,West,15,500
+2026-01-25,Tablet,North,9,300
+2026-01-28,Laptop,South,4,850
+2026-02-02,Phone,East,11,500
+2026-02-05,Tablet,West,5,300
